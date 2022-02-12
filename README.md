@@ -19,7 +19,7 @@ $ cd /opt/
 
 ### 2. Clone the repo
 ```
-$ git clone https://github.com/dharun-narayanan/Keylogger.git
+$ git clone https://github.com/Dev-Divyendh/Keylogger.git
 ```
 
 ### 3. Navigate into zLogger’s directory
